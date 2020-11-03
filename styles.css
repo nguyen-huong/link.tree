@@ -1,8 +1,8 @@
 body {
-background: black;
+background-color: #ffbdbd;
 color: #fff;
 font-family: 'Open Sans', sans-serif;
-font-size: 15px;
+font-size: 20px;
 letter-spacing: 2px;
 }
 img {
@@ -44,6 +44,6 @@ font-size: 20px;
 font-weight: bold;
 }
 a:hover {
-color: #000;
+color: #ffbdbd;
 background: #fff;
 }
